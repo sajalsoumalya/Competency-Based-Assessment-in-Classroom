@@ -21,7 +21,7 @@ There are four stages in competency learning
 
 **Conscious  Incompetence:**   In  conscious  incompetence,  the  learners  are  quite  skilled  and knowledgeable  and  they  are  seeking  new  challenges  for  growing  themselves.  There  is  no knowledge gap as well as the learner is quite experienced about it. 
 
-![](Aspose.Words.1d77fe79-49b1-4e20-9944-402e6ade56a6.001.jpeg)
+![](/README_assets/Aspose.Words.1d77fe79-49b1-4e20-9944-402e6ade56a6.001.jpeg)
 
 The Web Interface helps you to make assessments easily and helps you to acknowledge the understanding level of the learner. Our Web Application allows you to create an account for the application. After successfully signing up you can log in and create a quiz and you can generate a quiz link and share the links with the learner so that they can attempt the quiz. The end of the quizzing interface will give you an analysis of the Quiz. 
 
