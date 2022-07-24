@@ -13,9 +13,9 @@ There are four stages in competency learning
 - Conscious Competence 
 - Unconscious Competence 
 
-**Unconscious Incompetence:** In Unconscious Incompetence, learners do not know about the topic after getting the lecture in the classroom from teachers.  They do not know that they are not aware of topics, even they do not have any experience on the particular topic as well. There is a knowledge gap from the side of learners and the learner is unaware of it. 
+__Unconscious Incompetence:__ In Unconscious Incompetence, learners do not know about the topic after getting the lecture in the classroom from teachers.  They do not know that they are not aware of topics, even they do not have any experience on the particular topic as well. There is a knowledge gap from the side of learners and the learner is unaware of it. 
 
-**Conscious Incompetence:** In this conscious competence level, learners come to know about the knowledge gap and also realize the need for required learning from trainers or teachers on the particular subject topic. Therefore a knowledge gap exists and the Learner is aware of it. 
+__Conscious Incompetence:__ In this conscious competence level, learners come to know about the knowledge gap and also realize the need for required learning from trainers or teachers on the particular subject topic. Therefore a knowledge gap exists and the Learner is aware of it. 
 
 **Conscious Competence:** In Conscious Incompetence, learners know about the skill and gain knowledge of how to perform after getting perfect learning or training. He can do things on that skill  set and  proper understanding, for  becoming  expert  learners  realize there  is  a  need  of effective practice.  
 
