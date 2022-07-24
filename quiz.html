@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz App</title>
+    <link rel="stylesheet" href="./css/style.css">
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" />
+<style>
+    th,tr{
+    padding: 3px;
+    border-radius: 5px;
+    border: 2px solid #fff; 
+    }
+</style>
+
+</head>
+
+<body>
+
+    <div class="container">
+        <center>
+            <h2>Quiz For Competency Based Assessment</h2>
+            <hr>
+        </center>
+        <div class="startBtn"><button>Start Quiz</button></div>
+    </div>
+
+    <div class="des_box">
+        <div class="des-title"><span>Some Rules of this Quiz</span></div>
+        <div class="des-list">
+            <div class="des">1. You will have only <span id="time_per_que">15 </span> seconds per each question.</div>
+            <div class="des">2. You must hover you mouse over the the option inorder to see the options.</div>
+            <div class="des">3. For mobile phone users press and hold the the option inorder to see the options.</div>
+            <div class="des">4. Once you select your answer, it can't be undone.</div>
+            <div class="des">5. You can't select any option once time goes off.</div>
+            <div class="des">6. You have to Select you Competency Level after Answering each Question </div>
+            <div class="des">7. You can't exit from the Quiz while you're Making it.</div>
+        </div>
+        <div class="btngulo">
+            <button class="quitBtn">Exit Quiz</button>
+            <button class="restart">Continue</button>
+        </div>
+    </div>
+
+
+    <div class="quizBox">
+        <header>
+            <div class="title">Quiz</div>
+            <div class="timer">
+                <div class="time_left_txt">Time Left</div>
+                <div class="timer_sec"></div>
+            </div>
+        </header>
+        <section>
+            <div class="que_text">
+
+            </div>
+            <div class="option_list">
+
+            </div>
+            <div class="feedback_input">
+
+
+            </div>
+        </section>
+
+
+        <footer>
+            <div class="total_que">
+
+            </div>
+            <button class="show_btn">Show</button>
+            <button class="next_btn">Next</button>
+        </footer>
+    </div>
+
+
+    <div class="result_box">
+        <div class="icon">
+            <i class="fas fa-crown"></i>
+        </div>
+        <div class="complete_text">You've completed the Quiz!</div>
+        <div class="score_text">
+
+        </div>
+        <div >
+            <table class="summ" style="text-align: center;">
+                <tr>
+                  <th>Question No</th>
+                  <th>Remarks</th>
+                </tr>
+              </table>
+        </div>
+        <div class="btngulo">
+            
+            <button class="quitBtn">Quit Quiz</button>
+        </div>
+    </div>
+
+
+    <script src="https://www.gstatic.com/firebasejs/8.7.1/firebase-app.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/8.7.1/firebase-database.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/8.8.1/firebase-auth.js"></script>
+    <script src="./js/firebase.js"></script>
+
+    <script src="./js/script.js"></script>
+
+</body>
+
+</html>

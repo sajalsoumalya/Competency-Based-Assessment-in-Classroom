@@ -1,0 +1,171 @@
+body {
+    background-color: #721c24;
+    -webkit-touch-callout: none;
+    /* iOS Safari */
+    -webkit-user-select: none;
+    /* Safari */
+    -khtml-user-select: none;
+    /* Konqueror HTML */
+    -moz-user-select: none;
+    /* Old versions of Firefox */
+    -ms-user-select: none;
+    /* Internet Explorer/Edge */
+    user-select: none;
+    /* Non-prefixed version, currently supported by Chrome, Edge, Opera and Firefox */
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+
+a {
+    text-decoration: none;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+p {
+    color: antiquewhite;
+}
+
+hr {
+    padding: 1px;
+    width: 90%;
+    margin: 20px auto;
+    color: aliceblue;
+}
+
+.admin_btn {
+    padding: 15px 10px;
+    font-size: 2.0rem;
+    margin: 10px 50px;
+}
+
+.users_btn {
+    padding: 0px 10px;
+    font-size: 2.0rem;
+    text-align: center;
+    transition: 1s;
+    cursor: pointer;
+}
+
+.active {
+    background: rgb(226, 175, 112);
+}
+
+.users_btn:hover {
+    background: rgb(226, 175, 112);
+}
+
+form {
+    padding: 10px 0px;
+}
+
+.tabs {
+    background-color: beige;
+    max-width: 590px;
+    width: 100%;
+    border-radius: 5px;
+    overflow: hidden;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+button {
+    max-width: 300px;
+    width: 100%;
+    margin: 10px 0px;
+    font-size: 1.55rem;
+}
+
+.section {
+    background-color: #883840;
+    margin: 5px auto;
+    border-radius: 10px;
+    text-align: center;
+    min-height: 300px;
+}
+
+section {
+    width: 98%;
+    margin: 0 auto;
+}
+
+th,
+td {
+    color: aliceblue;
+}
+
+.row {
+    width: 98%;
+    margin: 0 auto;
+}
+
+form {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    max-width: 500px;
+    width: 100%;
+    margin: 50px auto;
+    background-color: #883840;
+    padding: 10px 10px;
+    transition: 1s;
+    display: none;
+    z-index: 99 !important;
+}
+
+label {
+    color: aliceblue;
+}
+
+.form_heading {
+    font-size: 1.5rem;
+    color: aliceblue;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+
+#close,
+#cl,
+#closelink {
+    float: right;
+    font-size: 1.5rem;
+    color: aliceblue;
+}
+
+#set_quiz_btn {
+    padding: 5px;
+    margin-top: 10px;
+    width: 100%;
+    float: right;
+}
+
+#set_quiz {
+    width: max-content;
+}
+
+.remove {
+    background-color: white;
+    padding: 5px 10px;
+    color: red;
+    border-radius: 5px;
+    border: white 1px solid;
+}
+
+.alert .btn-close {
+    font-size: 1rem;
+    padding: 10px 10px;
+}
+
+.apexcharts-legend-text {
+    color: aliceblue !important;
+}
+
+.apexcharts-menu-icon {
+    display: none;
+}
