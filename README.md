@@ -1,4 +1,4 @@
-﻿**Title: Competency-Based Assessment in Classroom** 
+﻿# Competency-Based Assessment in Classroom
 
 **Brief Details of the Project** 
 
@@ -29,36 +29,26 @@ There are two sides of this Web Application **Admin Side**(Teacher side) and **L
 
 On the Admin Side, you need to log in or Sign up first. After login, you will come to the Dashboard Section. 
 
-![](Aspose.Words.1d77fe79-49b1-4e20-9944-402e6ade56a6.002.jpeg)There you can create a Quiz, Edit Quiz, and Delete Quiz. You can create a quiz by giving the ‘name of the quiz’, ‘time per question (sec.)’, and the subject of The quiz. After creating the quiz you will see a Set question button for every quiz: 
+![](/README_assets/Aspose.Words.1d77fe79-49b1-4e20-9944-402e6ade56a6.002.jpeg)There you can create a Quiz, Edit Quiz, and Delete Quiz. You can create a quiz by giving the ‘name of the quiz’, ‘time per question (sec.)’, and the subject of The quiz. After creating the quiz you will see a Set question button for every quiz: 
 
-![](Aspose.Words.1d77fe79-49b1-4e20-9944-402e6ade56a6.003.jpeg)
+![](/README_assets/Aspose.Words.1d77fe79-49b1-4e20-9944-402e6ade56a6.003.jpeg)
 
 To set the question for the quiz you have to click on the button and then you will be redirected to the set question page where you can Add questions, Delete Questions  Edit Questions as well as get the link of the quiz to get the quiz link you have to click on the ‘Get Quiz link’ button and then You can Copy the link and share with the learners. 
 
-![](Aspose.Words.1d77fe79-49b1-4e20-9944-402e6ade56a6.004.jpeg)
+![](/README_assets/Aspose.Words.1d77fe79-49b1-4e20-9944-402e6ade56a6.004.jpeg)
 
 ` `On the learner side when the learner visits the link there will be a start quiz button to start the quiz you have to press the button then instructions will be shown to you. Once the learner completes reading the instructions, press next then the quiz will start. There will be MCQ-based questions. Once the learner selects an option it will show a Dropdown Menu asking for your competency level. To go to the next question you have to select one of the 4 options. Then only you go for the next question.  
 
-![](Aspose.Words.1d77fe79-49b1-4e20-9944-402e6ade56a6.005.png)![](Aspose.Words.1d77fe79-49b1-4e20-9944-402e6ade56a6.006.png)
+![](/README_assets/Aspose.Words.1d77fe79-49b1-4e20-9944-402e6ade56a6.005.png)![](/README_assets/Aspose.Words.1d77fe79-49b1-4e20-9944-402e6ade56a6.006.png)
 
 ![](Aspose.Words.1d77fe79-49b1-4e20-9944-402e6ade56a6.007.png)![](Aspose.Words.1d77fe79-49b1-4e20-9944-402e6ade56a6.008.png)
 
-**Technology Used**  Backend:  
+**Flow Chart:**
 
-1. JavaScript [2]  Frontend:  
-1. HTML 4 [3] 
-1. CSS3 
-
-Flow Chart: 
-
-![](Aspose.Words.1d77fe79-49b1-4e20-9944-402e6ade56a6.009.jpeg)
+![](/README_assets/Aspose.Words.1d77fe79-49b1-4e20-9944-402e6ade56a6.009.jpeg)
 
 **Conclusion:** 
 
 There is always a need to check how competent the learners are. This platform will give you a real-time/online easy solution for the same. 
 
-**References:** 
 
-1. [https://dribbble.com/shots/15587832-The-Conscious-Competence-Learning-Model ](https://dribbble.com/shots/15587832-The-Conscious-Competence-Learning-Model)
-1. [https://www.w3schools.com  ](https://www.w3schools.com/)
-1. [https://www.chartjs.org ](https://www.chartjs.org/)
